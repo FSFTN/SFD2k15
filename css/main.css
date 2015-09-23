@@ -584,7 +584,7 @@ h2 {
 
 #sponsor {
   background-color: #1881a2;
-  background-image: url("../images/sponsor.jpg");
+  background-image: url("../images/sponsor-bg.jpg");
   background-position:50% 0;
   background-size: cover;
   background-repeat:no-repeat;
@@ -658,7 +658,7 @@ h2 {
 
 .contact-section {
   background-color: #f7ab24;
-  background-image: url("../images/contact-.jpg");
+  background-image: url("../images/contact-bg.jpg");
   background-position:60% 0;
   background-size:contain;
   background-repeat:no-repeat;
