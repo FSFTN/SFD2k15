@@ -2,13 +2,8 @@ jQuery(function($) {'use strict',
 
 	//Countdown js
 	 $("#countdown").countdown({
-			date: "27 Sunday 2015 10:00:00",
-			format: "on"
-		},
-
-		function() {
-			// callback function
-		});
+		 "date": "9/27/2015"
+	 });
 
 
 
